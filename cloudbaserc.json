@@ -10,7 +10,7 @@
           "serviceName": "bitwarden",
           "servicePath": "/",
           "uploadType": "image",
-          "containerPort": 80,
+          "containerPort": 8080,
           "imageInfo": {
             "imageUrl": "ccr.ccs.tencentyun.com/tcb_public/bitwardenrs_server:alpine"
           },
